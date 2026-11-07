@@ -1,0 +1,6 @@
+{
+  "appId": "com.ahad.pharmacypos",
+  "appName": "Pharmacy POS",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
